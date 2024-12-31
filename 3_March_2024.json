@@ -1,0 +1,191 @@
+[
+  {
+    "DATE": "29-Mar-2024",
+    "OPEN": 2510.02,
+    "HIGH": 2550,
+    "LOW": 2502,
+    "CLOSE": 2536.99,
+    "VOLUME": 7181,
+    "CHANGE": 9.9
+  },
+  {
+    "DATE": "28-Mar-2024",
+    "OPEN": 2500.01,
+    "HIGH": 2546,
+    "LOW": 2495,
+    "CLOSE": 2527.09,
+    "VOLUME": 26190,
+    "CHANGE": 15.93
+  },
+  {
+    "DATE": "27-Mar-2024",
+    "OPEN": 2510,
+    "HIGH": 2550,
+    "LOW": 2490,
+    "CLOSE": 2511.16,
+    "VOLUME": 89586,
+    "CHANGE": 11.64
+  },
+  {
+    "DATE": "26-Mar-2024",
+    "OPEN": 2475,
+    "HIGH": 2510,
+    "LOW": 2475,
+    "CLOSE": 2499.52,
+    "VOLUME": 12016,
+    "CHANGE": 4.18
+  },
+  {
+    "DATE": "25-Mar-2024",
+    "OPEN": 2500,
+    "HIGH": 2520,
+    "LOW": 2460,
+    "CLOSE": 2495.34,
+    "VOLUME": 80654,
+    "CHANGE": 0.34
+  },
+  {
+    "DATE": "22-Mar-2024",
+    "OPEN": 2505,
+    "HIGH": 2505,
+    "LOW": 2480,
+    "CLOSE": 2495,
+    "VOLUME": 18777,
+    "CHANGE": 0.64
+  },
+  {
+    "DATE": "21-Mar-2024",
+    "OPEN": 2535,
+    "HIGH": 2537,
+    "LOW": 2490,
+    "CLOSE": 2494.36,
+    "VOLUME": 28723,
+    "CHANGE": -16.99
+  },
+  {
+    "DATE": "20-Mar-2024",
+    "OPEN": 2496,
+    "HIGH": 2525,
+    "LOW": 2476.2,
+    "CLOSE": 2511.35,
+    "VOLUME": 22464,
+    "CHANGE": 17.78
+  },
+  {
+    "DATE": "19-Mar-2024",
+    "OPEN": 2406,
+    "HIGH": 2499,
+    "LOW": 2406,
+    "CLOSE": 2493.57,
+    "VOLUME": 272507,
+    "CHANGE": 47.9
+  },
+  {
+    "DATE": "18-Mar-2024",
+    "OPEN": 2459,
+    "HIGH": 2474,
+    "LOW": 2430,
+    "CLOSE": 2445.67,
+    "VOLUME": 22053,
+    "CHANGE": -0.41
+  },
+  {
+    "DATE": "15-Mar-2024",
+    "OPEN": 2450,
+    "HIGH": 2485,
+    "LOW": 2425,
+    "CLOSE": 2446.08,
+    "VOLUME": 31787,
+    "CHANGE": 15.97
+  },
+  {
+    "DATE": "14-Mar-2024",
+    "OPEN": 2374,
+    "HIGH": 2466,
+    "LOW": 2370,
+    "CLOSE": 2430.11,
+    "VOLUME": 24170,
+    "CHANGE": 72.51
+  },
+  {
+    "DATE": "13-Mar-2024",
+    "OPEN": 2434,
+    "HIGH": 2449.5,
+    "LOW": 2340,
+    "CLOSE": 2357.6,
+    "VOLUME": 13587,
+    "CHANGE": -74.57
+  },
+  {
+    "DATE": "12-Mar-2024",
+    "OPEN": 2460,
+    "HIGH": 2475,
+    "LOW": 2400,
+    "CLOSE": 2432.17,
+    "VOLUME": 11718,
+    "CHANGE": -15.12
+  },
+  {
+    "DATE": "11-Mar-2024",
+    "OPEN": 2449,
+    "HIGH": 2478,
+    "LOW": 2435,
+    "CLOSE": 2447.29,
+    "VOLUME": 12437,
+    "CHANGE": 9.69
+  },
+  {
+    "DATE": "08-Mar-2024",
+    "OPEN": 2438.9,
+    "HIGH": 2487,
+    "LOW": 2410,
+    "CLOSE": 2437.6,
+    "VOLUME": 20889,
+    "CHANGE": -1.61
+  },
+  {
+    "DATE": "07-Mar-2024",
+    "OPEN": 2444,
+    "HIGH": 2450,
+    "LOW": 2380,
+    "CLOSE": 2439.21,
+    "VOLUME": 47940,
+    "CHANGE": 7.54
+  },
+  {
+    "DATE": "06-Mar-2024",
+    "OPEN": 2494.99,
+    "HIGH": 2495,
+    "LOW": 2425,
+    "CLOSE": 2431.67,
+    "VOLUME": 20006,
+    "CHANGE": -53.56
+  },
+  {
+    "DATE": "05-Mar-2024",
+    "OPEN": 2549,
+    "HIGH": 2549,
+    "LOW": 2472.1,
+    "CLOSE": 2485.23,
+    "VOLUME": 25427,
+    "CHANGE": -45.27
+  },
+  {
+    "DATE": "04-Mar-2024",
+    "OPEN": 2490,
+    "HIGH": 2568.6,
+    "LOW": 2489,
+    "CLOSE": 2530.5,
+    "VOLUME": 50510,
+    "CHANGE": 68.45
+  },
+  {
+    "DATE": "01-Mar-2024",
+    "OPEN": 2350,
+    "HIGH": 2524.69,
+    "LOW": 2350,
+    "CLOSE": 2462.05,
+    "VOLUME": 75621,
+    "CHANGE": 113.5
+  }
+]
